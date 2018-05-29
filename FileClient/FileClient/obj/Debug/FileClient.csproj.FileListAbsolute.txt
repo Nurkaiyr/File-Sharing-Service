@@ -1,0 +1,7 @@
+c:\users\едиген\source\repos\FileClient\FileClient\bin\Debug\FileClient.exe.config
+c:\users\едиген\source\repos\FileClient\FileClient\bin\Debug\FileClient.exe
+c:\users\едиген\source\repos\FileClient\FileClient\bin\Debug\FileClient.pdb
+c:\users\едиген\source\repos\FileClient\FileClient\obj\Debug\FileClient.csprojResolveAssemblyReference.cache
+c:\users\едиген\source\repos\FileClient\FileClient\obj\Debug\FileClient.csproj.CoreCompileInputs.cache
+c:\users\едиген\source\repos\FileClient\FileClient\obj\Debug\FileClient.exe
+c:\users\едиген\source\repos\FileClient\FileClient\obj\Debug\FileClient.pdb

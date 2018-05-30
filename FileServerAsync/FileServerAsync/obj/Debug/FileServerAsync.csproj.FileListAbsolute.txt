@@ -1,0 +1,7 @@
+c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\obj\Debug\FileServerAsync.csprojResolveAssemblyReference.cache
+c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\obj\Debug\FileServerAsync.csproj.CoreCompileInputs.cache
+c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\bin\Debug\FileServerAsync.exe.config
+c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\bin\Debug\FileServerAsync.exe
+c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\bin\Debug\FileServerAsync.pdb
+c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\obj\Debug\FileServerAsync.exe
+c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\obj\Debug\FileServerAsync.pdb

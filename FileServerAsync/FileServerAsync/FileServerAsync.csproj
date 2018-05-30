@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4526189D-F1A2-4890-BE7E-14E99BAE1D1E}</ProjectGuid>
+    <ProjectGuid>{2392BC46-A272-4EA2-9083-B891B5A2C588}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FileServer</RootNamespace>
-    <AssemblyName>FileServer</AssemblyName>
+    <RootNamespace>FileServerAsync</RootNamespace>
+    <AssemblyName>FileServerAsync</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SocketServer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

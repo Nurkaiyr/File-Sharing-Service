@@ -22,8 +22,13 @@ namespace FileClient
 
                 try
                 {
-                    string fileName = "2.zip";
-                    string filePath = @"C:\Users\едиген\Downloads\";
+                    string fileNameAndPath;
+                    fileNameAndPath = Console.ReadLine();
+                    string slash = @"\";
+                    string filePath = Path.GetDirectoryName(fileNameAndPath);
+                    string fileName = slash+Path.GetFileName(fileNameAndPath);
+                   // string fileName = "2.zip";
+                   // string filePath = @"C:\Users\едиген\Downloads\";
 
                     byte[] fileNameByte = Encoding.ASCII.GetBytes(fileName);
                     byte[] fileData = File.ReadAllBytes(filePath + fileName);
@@ -39,7 +44,6 @@ namespace FileClient
                     Console.WriteLine("Файл отправлен: {0}",fileName);
                     client.Client.Close();
                     Console.ReadLine();
-                    //client.Client.SendFile(path);
 
                 }
                 catch (Exception ex)

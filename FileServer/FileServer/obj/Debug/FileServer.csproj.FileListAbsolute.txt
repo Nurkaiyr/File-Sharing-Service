@@ -1,7 +1,0 @@
-c:\users\едиген\source\repos\FileServer\FileServer\bin\Debug\FileServer.exe.config
-c:\users\едиген\source\repos\FileServer\FileServer\bin\Debug\FileServer.exe
-c:\users\едиген\source\repos\FileServer\FileServer\bin\Debug\FileServer.pdb
-c:\users\едиген\source\repos\FileServer\FileServer\obj\Debug\FileServer.csprojResolveAssemblyReference.cache
-c:\users\едиген\source\repos\FileServer\FileServer\obj\Debug\FileServer.csproj.CoreCompileInputs.cache
-c:\users\едиген\source\repos\FileServer\FileServer\obj\Debug\FileServer.exe
-c:\users\едиген\source\repos\FileServer\FileServer\obj\Debug\FileServer.pdb

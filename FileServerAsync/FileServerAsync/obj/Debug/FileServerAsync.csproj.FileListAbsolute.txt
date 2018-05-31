@@ -5,3 +5,10 @@ c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\bin\Debug\Fil
 c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\bin\Debug\FileServerAsync.pdb
 c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\obj\Debug\FileServerAsync.exe
 c:\users\едиген\source\repos\FileServerAsync\FileServerAsync\obj\Debug\FileServerAsync.pdb
+C:\Users\едиген\Desktop\File Sharing Service\FileServerAsync\FileServerAsync\bin\Debug\FileServerAsync.exe.config
+C:\Users\едиген\Desktop\File Sharing Service\FileServerAsync\FileServerAsync\bin\Debug\FileServerAsync.exe
+C:\Users\едиген\Desktop\File Sharing Service\FileServerAsync\FileServerAsync\bin\Debug\FileServerAsync.pdb
+C:\Users\едиген\Desktop\File Sharing Service\FileServerAsync\FileServerAsync\obj\Debug\FileServerAsync.csprojResolveAssemblyReference.cache
+C:\Users\едиген\Desktop\File Sharing Service\FileServerAsync\FileServerAsync\obj\Debug\FileServerAsync.csproj.CoreCompileInputs.cache
+C:\Users\едиген\Desktop\File Sharing Service\FileServerAsync\FileServerAsync\obj\Debug\FileServerAsync.exe
+C:\Users\едиген\Desktop\File Sharing Service\FileServerAsync\FileServerAsync\obj\Debug\FileServerAsync.pdb

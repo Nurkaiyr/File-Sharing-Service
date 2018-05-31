@@ -19,6 +19,7 @@ namespace FileClient
             try
             {
                 Console.WriteLine("Клиент запущен...");
+                Console.WriteLine("Введите путь файла:");
 
                 try
                 {

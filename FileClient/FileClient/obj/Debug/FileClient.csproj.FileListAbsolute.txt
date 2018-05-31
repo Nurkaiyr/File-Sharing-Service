@@ -5,3 +5,10 @@ c:\users\едиген\source\repos\FileClient\FileClient\obj\Debug\FileClient.cs
 c:\users\едиген\source\repos\FileClient\FileClient\obj\Debug\FileClient.csproj.CoreCompileInputs.cache
 c:\users\едиген\source\repos\FileClient\FileClient\obj\Debug\FileClient.exe
 c:\users\едиген\source\repos\FileClient\FileClient\obj\Debug\FileClient.pdb
+C:\Users\едиген\Desktop\File Sharing Service\FileClient\FileClient\bin\Debug\FileClient.exe.config
+C:\Users\едиген\Desktop\File Sharing Service\FileClient\FileClient\bin\Debug\FileClient.exe
+C:\Users\едиген\Desktop\File Sharing Service\FileClient\FileClient\bin\Debug\FileClient.pdb
+C:\Users\едиген\Desktop\File Sharing Service\FileClient\FileClient\obj\Debug\FileClient.csprojResolveAssemblyReference.cache
+C:\Users\едиген\Desktop\File Sharing Service\FileClient\FileClient\obj\Debug\FileClient.csproj.CoreCompileInputs.cache
+C:\Users\едиген\Desktop\File Sharing Service\FileClient\FileClient\obj\Debug\FileClient.exe
+C:\Users\едиген\Desktop\File Sharing Service\FileClient\FileClient\obj\Debug\FileClient.pdb
